@@ -9,7 +9,7 @@ const path = require("path");
 const readline = require("readline");
 
 const DEV_BRANCH = "dev-aymaan";
-const DEPLOY_BRANCH = "main";
+const DEPLOY_BRANCH = "merger";
 
 const ALLOWED_ORG_DOMAIN = "https://orgfarm-50cf24d82e.lightning.force.com/";
 const TARGET_ORG_ALIAS = "TDX";
